@@ -1,1 +1,1 @@
-cb({ result: "success" });
+{ "result": "success" }
