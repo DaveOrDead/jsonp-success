@@ -1,1 +1,1 @@
-{ "result": "success" }
+callback({ result: "success" });

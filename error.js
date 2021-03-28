@@ -1,1 +1,1 @@
-{ "result": "error" }
+callback({ result: "error" });
